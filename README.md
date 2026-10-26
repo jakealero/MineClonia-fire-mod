@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fire_smoke
 
 A small Mineclonia mod that periodically emits smoke bursts above:
@@ -30,3 +31,7 @@ A small Mineclonia mod that periodically emits smoke bursts above:
 Particle count, emission position, velocity,
 acceleration, lifetime, and size are configurable
 inside init.lua.
+=======
+# MineClonia-fire-mod
+this mod adds more immersive fires to mineclonia. currently it only supports that game.
+>>>>>>> b2657e5f0d1de592a2499239977be0f514799c54

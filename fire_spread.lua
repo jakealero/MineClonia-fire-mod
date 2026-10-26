@@ -8,7 +8,7 @@ local FIRE_NODES = {
 
 local BASE_SPREAD_CHANCE = 36
 local MAX_WIND_MULTIPLIER = 2
-local MAX_WIND_SPEED = 0.40
+local MAX_WIND_SPEED = fire_smoke_wind.get_max_speed()
 
 local SEARCH_MIN = {x = -1, y = -1, z = -1}
 local SEARCH_MAX = {x =  1, y =  4, z =  1}
